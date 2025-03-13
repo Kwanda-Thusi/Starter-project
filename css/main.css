@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: #a00000;
+  text-decoration: firebrick;
+  font-size: 500%;
+  text-shadow: rgb(214, 5, 47);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-image: url(../images/homepage.jpg);
+  background-repeat: repeat;
+  background-size: 33%;
+}
+h2 {
+  text-align: left;
+  color: white;
+  font-style: oblique;
+  font-size: 140%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  text-align: left;
+  color: white;
+  font-size: 100%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

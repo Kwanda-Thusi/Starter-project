@@ -1,0 +1,24 @@
+h1 {
+  font-style: oblique;
+  text-align: center;
+  color: #a00000;
+  text-decoration: underline;
+  font-size: 500%;
+  text-shadow: rgb(214, 5, 47);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-image: url(../images/opening.jpg);
+  background-repeat: repeat;
+  background-size: 55%;
+  background-position: center;
+}
+p {
+  color: white;
+  text-align: center;
+  font-size: 100%;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
